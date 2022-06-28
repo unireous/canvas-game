@@ -1,0 +1,5 @@
+This is a canvas game made with a tutorial from Chris Courses on YouTube.
+
+https://www.youtube.com/watch?v=eI9idPTT0c4
+
+The first push is the code found from the tutorial and future pushes are my own additions to the code to give the game my own twist.
